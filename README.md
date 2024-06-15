@@ -20,6 +20,8 @@ This repository contains a complete ML Project from scratch till web app python 
 **Streamlit**
 
 # Deployment:
-**Streamlit**
+**Streamlit** <br />
+link: https://mypizzaprediction.streamlit.app/
+
 
 
