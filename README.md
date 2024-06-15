@@ -20,6 +20,6 @@ This repository contains a complete ML Project from scratch till web app python 
 **Streamlit**
 
 # Deployment:
-**Heroku**
+**Streamlit**
 
 
